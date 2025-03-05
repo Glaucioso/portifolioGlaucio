@@ -549,6 +549,10 @@ span {
     border-radius: 50%;
 }
 
+.project-content a {
+    color: var(--text-color);
+}
+
 .project-content .content {
     position: relative;
     padding: 1.5rem;
